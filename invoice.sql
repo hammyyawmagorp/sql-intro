@@ -1,8 +1,4 @@
 
--- Update the invoice with an invoice_id of 5 to have a total order amount of 24.
--- Delete the invoice with an invoice_id of 1.
-
-
 
 SELECT COUNT(*)
 FROM invoice
